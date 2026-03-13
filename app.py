@@ -52,7 +52,7 @@ PREDICT_WINDOW = 10
 # ─────────────────────────────────────────────────────────────
 # MQTT CONFIG
 # ─────────────────────────────────────────────────────────────
-MQTT_BROKER    = "broker.hivemq.com"
+MQTT_BROKER    = "test.mosquitto.org"
 MQTT_PORT      = 1883
 MQTT_TOPIC_ALL = "motor/all"
 
